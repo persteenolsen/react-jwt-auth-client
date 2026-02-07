@@ -2,7 +2,7 @@
 
 React + Redux - JWT Authentication Example and Tutorial
 
-Last updated: 19-01-2026
+Last updated: 07-02-2026
 
 Node: 24.13.0
 
